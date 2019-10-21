@@ -1,0 +1,57 @@
+[
+    {   
+        "id":1,
+        "title":"1SecondCoupon",
+         "starDate":"2015-02-04" ,
+         "endDate":"2023-04-04",
+         "amount":5, "Type":"CAMPING",
+         "message":"SeconCoupon",
+         "price": 10, "image":"URL",
+         "status":"ACTIVE",
+         "starRating":4
+    },
+    {   
+        "id":1,
+        "title":"1SecondCoupon",
+         "starDate":"2015-02-04" ,
+         "endDate":"2023-04-04",
+         "amount":5, "Type":"CAMPING",
+         "message":"SeconCoupon",
+         "price": 10, "image":"URL",
+         "status":"ACTIVE",
+         "starRating":4
+    },
+    {   
+        "id":2,
+        "title":"2Coupon",
+         "starDate":"2015-02-04" ,
+         "endDate":"2023-04-04",
+         "amount":5, "Type":"CAMPING",
+         "message":"SeconCoupon",
+         "price": 10, "image":"URL",
+         "status":"ACTIVE",
+         "starRating":4
+    },
+    {   
+        "id":3,
+        "title":"3Coupon",
+         "starDate":"2015-02-04" ,
+         "endDate":"2023-04-04",
+         "amount":5, "Type":"CAMPING",
+         "message":"SeconCoupon",
+         "price": 10, "image":"URL",
+         "status":"ACTIVE",
+         "starRating":4
+    },
+    {   
+        "id":4,
+        "title":"2Coupon",
+         "starDate":"2015-02-04" ,
+         "endDate":"2023-04-04",
+         "amount":5, "Type":"CAMPING",
+         "message":"SeconCoupon",
+         "price": 10, "image":"URL",
+         "status":"ACTIVE",
+         "starRating":4
+    }
+]
